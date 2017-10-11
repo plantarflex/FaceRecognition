@@ -21,4 +21,4 @@ resultFinal.txt의 디렉토리를 다시 새롭게 조정합니다.
 
 3. 오류가 난다면 lib에 있는 jar 파일들을 전부 드래그
 
-> 우클릭 > build path > add 를 해주시면 됩니다.
+ > 우클릭 > build path > add 를 해주시면 됩니다.
